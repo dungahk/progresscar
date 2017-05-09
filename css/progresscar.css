@@ -1,0 +1,16 @@
+body {
+    background-image: url("../pc_bw.jpg");
+    background-size: cover;
+}
+
+.marketing, footer{
+    background-color: #eee;
+    border-radius: 6px;
+}
+
+h3 {
+    color: #fff!important;
+}
+footer {
+    margin: 0!important;
+}
